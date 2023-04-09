@@ -161,7 +161,7 @@ body {
 }
 .slider .box .details p {
   display: inline-block;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   color: #B5B4B4;
   margin-bottom: 2rem;
   margin-right: 5rem;
@@ -239,7 +239,7 @@ body {
   background-color: #300050;
 }
 .slider .box5 .illustration .inner {
-  background-color: #8000FF;
+  background-image: url("https://drive.google.com/file/d/1lVTC-boCRVtJk0ECqerKjwZFU3BpOslO/view?usp=sharing"); /* The image used */
 }
 .slider .box5 .illustration .inner::after, .slider .box5 .illustration .inner::before {
   background-color: rgba(128, 0, 255, 0.4);
